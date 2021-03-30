@@ -33,7 +33,7 @@ void setup() {
 
 int melody[] = {  b,  e,  g, gb,  e,  B,  a, gb,  e,  g, gb, eb,  f,  b,  b,  e,  g,  gb,  e,  B,  D,  Db,  C,  ab,  C,  B,  bb,  gb,  g,  e,   g,  B,  g,  B,  g,  C,  B,  bb,  gb,  g,  B,  bb,  Bb,  c,   B,  g,  B,  g,  B,  g,  D,  Db,  C,  ab,  C,  B,  bb,  gb,  g,   e, R };
 int beats[]  = { 32, 64, 16, 32, 64, 32, 64, 64, 64, 16, 32, 64, 32, 64, 32, 64, 16,  32, 64, 32, 64,  32, 64,  32, 64, 32,  64,  32, 32, 128, 32, 64, 32, 64, 32, 64, 32,  64,  32, 64, 16,  32,  64, 32, 128, 32, 64, 32, 64, 32, 64,  32, 64,  32, 64, 32,  64,  32, 32, 128, 8 }; 
-int MAX_COUNT = sizeof(melody) / 2; // tamanho da musica p/ loop
+int MAX_COUNT = sizeof(melody) / 2; // tamanho da musica p/ o loop
 
 // define o tempo
 long tempo = 10000;
