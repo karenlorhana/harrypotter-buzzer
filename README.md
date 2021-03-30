@@ -9,7 +9,7 @@
 <li> 1 Arduino Uno</li>
 <li> 1 buzzer 5V</li>
 <li> 1 protoboard</li>
- <li> 2 LED's </li>
+<li> 2 LED's </li>
 <li> 3 resistores 220Ω</li>
 <li> Jumpers</li>
 </ul>
